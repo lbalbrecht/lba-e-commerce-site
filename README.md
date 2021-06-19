@@ -8,6 +8,8 @@ The app functions through the REST API tool Insomnia.
 
 [View the Insomnia Website](https://insomnia.rest/)
 
+[View the video demo](https://drive.google.com/file/d/137JCJ8ZVsHBJnUGLefhVy06ewVp81YGE/view?usp=sharing)
+
 ## Setup
 
 To begin, the user opens the command line terminal in the same folder as the server.js file. The command line terminal can be opened by right clicking on the server.js file and clicking on the option "Open in Integrated Terminal."
